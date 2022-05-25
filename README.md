@@ -20,5 +20,5 @@ nástroj, který umí předpovědět aktivní místa pouze ze sekvence aminokyse
 ### Strojové učení
    -[ ] vyzkoušení různých metod strojového učení na predikci aktivních míst
 ### Závěr 
-    -[ ] porovnání účinosti jednotlivých metod
-    -[ ] porovnání s P2RANK
+   -[ ] porovnání účinosti jednotlivých metod
+   -[ ] porovnání s P2RANK
