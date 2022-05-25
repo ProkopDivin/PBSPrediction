@@ -13,15 +13,15 @@ nástroj, který umí předpovědět aktivní místa pouze ze sekvence aminokyse
 ## Postup 
 ### Příprava dat 
 
-   -[ ] načtení dat.
+   - [ ] načtení dat.
    Data pocházejí z: <https://github.com/rdk/p2rank-datasets>
    Pomocí nástroje P2RANK (<https://github.com/rdk/p2rank>) se z  
-   -[ ] přiřezení aktivních míst ke každé sekvenci, případné rozdělení na  
-   -[ ] kontrola spracovaných dat
+   - [ ] přiřezení aktivních míst ke každé sekvenci, případné rozdělení na  
+   - [ ] kontrola spracovaných dat
 ### Strojové učení
 
-   -[ ] vyzkoušení různých metod strojového učení na predikci aktivních míst
+   - [ ] vyzkoušení různých metod strojového učení na predikci aktivních míst
 ### Závěr 
 
-   -[ ] porovnání účinosti jednotlivých metod
-   -[ ] porovnání s P2RANK
+   - [ ] porovnání účinosti jednotlivých metod
+   - [ ] porovnání s P2RANK
