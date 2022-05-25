@@ -15,6 +15,7 @@ když mají být součástí aktivního místa, nebo nulou v opačném případ�
 
 ## Postup 
 ### Příprava dat 
+Cílem je připravit data pro strojové učení. 
 
    - [ ] načtení dat.
    Data pocházejí z: <https://github.com/rdk/p2rank-datasets>. Pomocí nástroje P2RANK (<https://github.com/rdk/p2rank>) se
