@@ -25,12 +25,17 @@ def processFile(labelsCsv, residues):
         if(name[-4:]==".csv"):            
             lastChain=""
             labeling=[]
+            line=next(reader) #skip head
+            chain =line[0]
+            firstLoop=True
             for line in reader:
-                if (len(line[0])>1): #skip head
-                    line=next(reader) 
-                    chain=line[0]
+                
+                chain=line[0].replace(' ','') #sometimes there is space sometimes not
+                if chain=="":    #if first column is empty than the 5th column i used as chain name (in residues file)
+                   chain=line[4].replace(' ','')
+                if firstLoop:
+                    firstLoop=False
                     lastChain=chain
-                chain=line[0]
                 if not(lastChain==chain):    #devide sequece to a chains
                     saveToCsv(makeName(name),lastChain,labeling,labelsCsv)
                     lastChain=chain
@@ -51,8 +56,8 @@ def makeLabels(labels, residuesDir): #stream to csv file , directory with residu
 def main(): #args[1]...bindings_labeled, args[2]...residues 
     args=sys.argv  
     if (len(args)==1):
-       args.append("trainData/residues")
-       args.append("trainData/bindings_labeled")
+       args.append("../../trainData/residues")
+       args.append("../../trainData/bindings_labeled")
    
     if not (len(args)==3):print("need 2 arguments")
     for name in os.listdir(args[1]):

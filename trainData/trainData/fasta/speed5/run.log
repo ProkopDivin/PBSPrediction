@@ -1,0 +1,2568 @@
+[INFO] Console - executing analyze fasta-masked command
+[INFO] Console - exporting fasta (masked: true)
+[INFO] Dataset - processing dataset [speed5.ds] using 0 threads
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (2/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (1/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (3/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (4/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1EYI.pdb] (2/100)
+[INFO] Console - processing [1DMW.pdb] (1/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (5/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (4/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (6/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (3/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (7/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (6/100)
+[INFO] Console - processing [1K6X.pdb] (5/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (9/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (8/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1EYI.pdb] (7/100)
+[INFO] Console - processing [1IKG.pdb] (9/100)
+[INFO] Console - processing [1I0R.pdb] (8/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (10/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (10/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (11/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (13/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (12/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (11/100)
+[INFO] Console - processing [1I0R.pdb] (13/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (15/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (16/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (15/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (14/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1EYI.pdb] (12/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (17/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (14/100)
+[INFO] Console - processing [1DMW.pdb] (16/100)
+[INFO] Console - processing [1EYI.pdb] (17/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - 307 groups in chain A
+[INFO] Struct - 331 groups in chain A
+[INFO] Struct - 331 groups in chain A
+[INFO] Struct - 324 groups in chain A
+[INFO] Struct - 307 groups in chain A
+[INFO] Struct - 331 groups in chain A
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - 345 groups in chain A
+[INFO] Struct - 345 groups in chain A
+[INFO] Struct - 307 groups in chain A
+[INFO] Struct - 345 groups in chain A
+[INFO] Struct - 324 groups in chain A
+[INFO] Struct - 307 groups in chain A
+[INFO] Struct - 331 groups in chain A
+[INFO] Struct - 324 groups in chain A
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - 168 groups in chain B
+[INFO] Struct - 168 groups in chain B
+[INFO] Struct - 168 groups in chain B
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - loading ligands
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - loading ligands
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - loading ligands
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - loading ligands
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - loading ligands
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (18/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (18/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (19/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (19/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (20/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (20/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (21/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (22/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (23/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (21/100)
+[INFO] Console - processing [1EYI.pdb] (22/100)
+[INFO] Console - processing [1I0R.pdb] (23/100)
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (24/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (25/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (24/100)
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (26/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (25/100)
+[INFO] Console - processing [1DMW.pdb] (26/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (27/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Console - processing [1EYI.pdb] (27/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (28/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (28/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (29/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (29/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (30/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (30/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (31/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (31/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (32/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1EYI.pdb] (32/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (33/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (33/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (34/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Console - processing [1IKG.pdb] (34/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - 307 groups in chain A
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - 345 groups in chain A
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - 324 groups in chain A
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - 168 groups in chain B
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] Struct - groups in chain A: 345
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Struct - 345 groups in chain A
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (35/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (35/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Struct - groups in chain A: 307
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - 307 groups in chain A
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 324
+[INFO] Ligands - loading 1 ligands
+[INFO] Struct - 345 groups in chain A
+[INFO] Struct - groups in chain A: 324
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Struct - 324 groups in chain A
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 161
+[INFO] Protein - structure atoms: 2688
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 161
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - 168 groups in chain B
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (36/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (36/100)
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] Ligand - ligand FE atoms:1
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 307
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Struct - groups in chain A: 307
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Struct - 307 groups in chain A
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 161
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Struct - 331 groups in chain A
+[INFO] Struct - 161 groups in chain A
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - 168 groups in chain B
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 331
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] Protein - structure atoms: 2805
+[INFO] Struct - groups in chain A: 331
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2518
+[INFO] Ligands - loading 7 ligands
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Protein - loading ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (37/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Console - processing [1EYI.pdb] (37/100)
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Struct - 331 groups in chain A
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (39/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (38/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Console - processing [1IKG.pdb] (39/100)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Console - processing [1I0R.pdb] (38/100)
+[INFO] Ligands - loading 0 ligands
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] Protein - structure atoms: 2805
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Protein - protein   atoms: 2518
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Struct - groups in chain A: 345
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - loading 1 ligands
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 345
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (40/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (40/100)
+[INFO] Struct - 345 groups in chain A
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Ligand - ligand CL atoms:1
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] Protein - structure atoms: 2718
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Struct - groups in chain A: 161
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Struct - groups in chain B: 168
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligands - loading 1 ligands
+[INFO] Struct - groups in chain A: 161
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Struct - 161 groups in chain A
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain B: 168
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Struct - 168 groups in chain B
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 324
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Struct - 324 groups in chain A
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (41/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (41/100)
+[INFO] Ligands - loading 1 ligands
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (43/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Struct - groups in chain A: 331
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (42/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Struct - groups in chain A: 331
+[INFO] Console - processing [1EYI.pdb] (42/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - 307 groups in chain A
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Ligands - loading 1 ligands
+[INFO] Struct - 331 groups in chain A
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Console - processing [1I0R.pdb] (43/100)
+[INFO] Struct - groups in chain A: 331
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - 331 groups in chain A
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Protein - protein   atoms: 2485
+[INFO] Ligands - loading 0 ligands
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain B: 168
+[INFO] Protein - loading ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Struct - groups in chain A: 324
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - 161 groups in chain A
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] Struct - groups in chain B: 168
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Struct - 168 groups in chain B
+[INFO] Ligands - loading 0 ligands
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Struct - groups in chain A: 324
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] Ligand - ligand FE atoms:1
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Struct - 324 groups in chain A
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Protein - structure atoms: 2718
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - 331 groups in chain A
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (44/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain A: 307
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 161
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Struct - 307 groups in chain A
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Struct - 161 groups in chain A
+[INFO] Console - processing [1IKG.pdb] (44/100)
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Struct - groups in chain B: 168
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (45/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Protein - structure atoms: 2718
+[INFO] Console - processing [1K6X.pdb] (45/100)
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Struct - 168 groups in chain B
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Struct - groups in chain A: 324
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Struct - groups in chain A: 324
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Struct - 324 groups in chain A
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (46/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Console - processing [1DMW.pdb] (46/100)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (47/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Console - processing [1EYI.pdb] (47/100)
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Ligands - loading 3 ligands
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (48/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Console - processing [1I0R.pdb] (48/100)
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] Protein - structure atoms: 3213
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (49/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Ligands - loading 1 ligands
+[INFO] Console - processing [1IKG.pdb] (49/100)
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (50/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Console - processing [1K6X.pdb] (50/100)
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Struct - groups in chain A: 345
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (51/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Struct - groups in chain A: 345
+[INFO] Console - processing [1DMW.pdb] (51/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Struct - 345 groups in chain A
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - 331 groups in chain A
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (52/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Console - processing [1EYI.pdb] (52/100)
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (53/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (53/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - 345 groups in chain A
+[INFO] Protein - structure atoms: 2983
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (54/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Struct - groups in chain A: 161
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Struct - groups in chain B: 168
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Struct - groups in chain A: 161
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Struct - 161 groups in chain A
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Struct - groups in chain B: 168
+[INFO] Console - processing [1IKG.pdb] (54/100)
+[INFO] Struct - 168 groups in chain B
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (55/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Console - processing [1K6X.pdb] (55/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (56/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (56/100)
+[INFO] Struct - groups in chain A: 307
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Ligands - loading 1 ligands
+[INFO] Struct - groups in chain A: 307
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] Ligand - ligand REX atoms:26
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Struct - 307 groups in chain A
+[INFO] Struct - groups in chain A: 307
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Struct - groups in chain A: 307
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Struct - 307 groups in chain A
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (57/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (58/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (58/100)
+[INFO] Console - processing [1EYI.pdb] (57/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (59/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (59/100)
+[INFO] Ligands - loading 1 ligands
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] Protein - structure atoms: 2688
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] Struct - groups in chain A: 345
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Ligands - loading 0 ligands
+[INFO] Struct - groups in chain A: 345
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Struct - 345 groups in chain A
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (60/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (60/100)
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (61/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (61/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (62/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1EYI.pdb] (62/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (63/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (64/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (63/100)
+[INFO] Console - processing [1IKG.pdb] (64/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 324
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (65/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (65/100)
+[INFO] Struct - 324 groups in chain A
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Struct - groups in chain A: 324
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - 324 groups in chain A
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Ligands - loading 1 ligands
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (66/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Ligands - loading 0 ligands
+[INFO] Console - processing [1DMW.pdb] (66/100)
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (67/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Console - processing [1EYI.pdb] (67/100)
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (68/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (68/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - 168 groups in chain B
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - 324 groups in chain A
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 345
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Struct - 345 groups in chain A
+[INFO] Struct - groups in chain A: 324
+[INFO] Ligands - loading 1 ligands
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - 324 groups in chain A
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 307
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - 307 groups in chain A
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Ligands - loading 1 ligands
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Struct - groups in chain A: 331
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - 331 groups in chain A
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (69/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (69/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 307
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (70/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (70/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - 307 groups in chain A
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (71/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (71/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] Struct - groups in chain A: 331
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Struct - groups in chain A: 331
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Struct - 331 groups in chain A
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Protein - structure atoms: 2718
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Protein - structure atoms: 2688
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (72/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1EYI.pdb] (72/100)
+[INFO] Struct - groups in chain A: 345
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (73/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (73/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Protein - protein   atoms: 2461
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (74/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (74/100)
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - 324 groups in chain A
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - 331 groups in chain A
+[INFO] Struct - groups in chain A: 345
+[INFO] Protein - structure atoms: 3213
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 331
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - 331 groups in chain A
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (75/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (75/100)
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain B: 168
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - 168 groups in chain B
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (76/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (76/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] Struct - groups in chain A: 307
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - protein   atoms: 2485
+[INFO] Struct - 345 groups in chain A
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 307
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Struct - 307 groups in chain A
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (77/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1EYI.pdb] (77/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Struct - groups in chain A: 161
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 161
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - 168 groups in chain B
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - 345 groups in chain A
+[INFO] Struct - 168 groups in chain B
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 324
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (78/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Protein - structure atoms: 2805
+[INFO] Console - processing [1I0R.pdb] (78/100)
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Struct - 324 groups in chain A
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - 307 groups in chain A
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (79/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (79/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Ligands - loading 1 ligands
+[INFO] Protein - structure atoms: 2718
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Protein - structure atoms: 2805
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] Protein - structure atoms: 2983
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - 331 groups in chain A
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 161
+[INFO] Ligands - loading 0 ligands
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 345
+[INFO] Ligands - loading 0 ligands
+[INFO] Struct - groups in chain A: 161
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - groups in chain B: 168
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Struct - 168 groups in chain B
+[INFO] Protein - structure atoms: 2718
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Protein - structure atoms: 2688
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 161
+[INFO] Protein - structure atoms: 3213
+[INFO] Struct - 345 groups in chain A
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Ligands - loading 0 ligands
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 345
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Struct - 331 groups in chain A
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - 345 groups in chain A
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (80/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Struct - groups in chain B: 168
+[INFO] Ligands - loading 2 ligands
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Console - processing [1K6X.pdb] (80/100)
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Struct - groups in chain A: 161
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Struct - 161 groups in chain A
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Struct - groups in chain B: 168
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Struct - 168 groups in chain B
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Protein - structure atoms: 2805
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (81/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (81/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (82/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Ligands - loading 1 ligands
+[INFO] Protein - structure atoms: 2983
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Console - processing [1EYI.pdb] (82/100)
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Protein - structure atoms: 2718
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2805
+[INFO] Struct - groups in chain A: 345
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (83/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (84/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Struct - groups in chain A: 345
+[INFO] Protein - loading ligands
+[INFO] Console - processing [1I0R.pdb] (83/100)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Console - processing [1IKG.pdb] (84/100)
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Struct - 345 groups in chain A
+[INFO] Ligands - loading 1 ligands
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (85/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (85/100)
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - 324 groups in chain A
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] Protein - structure atoms: 2983
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (86/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (87/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (88/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (86/100)
+[INFO] Console - processing [1I0R.pdb] (88/100)
+[INFO] Console - processing [1EYI.pdb] (87/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (89/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Console - processing [1IKG.pdb] (89/100)
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (90/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1K6X.pdb] (90/100)
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Ligands - loading 2 ligands
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (91/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1DMW.pdb] (91/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 161
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (92/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1EYI.pdb] (92/100)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (93/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (93/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - 161 groups in chain A
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - 168 groups in chain B
+[INFO] Protein - protein   atoms: 2556
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - 324 groups in chain A
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - loading 0 ligands
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 345
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Struct - 345 groups in chain A
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Struct - groups in chain A: 307
+[INFO] Ligands - loading 0 ligands
+[INFO] Struct - groups in chain A: 307
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Struct - 307 groups in chain A
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (94/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (94/100)
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (95/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Console - processing [1K6X.pdb] (95/100)
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2688
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1DMW.pdb] (96/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Console - processing [1DMW.pdb] (96/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1DMW.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1DMW.pdb]
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1I0R.pdb] (98/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1I0R.pdb] (98/100)
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1I0R.pdb]
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1I0R.pdb]
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1IKG.pdb] (99/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [1IKG.pdb] (99/100)
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1IKG.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1IKG.pdb]
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - 307 groups in chain A
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1EYI.pdb] (97/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 345
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [1K6X.pdb] (100/100)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Struct - groups in chain A: 345
+[INFO] Console - processing [1EYI.pdb] (97/100)
+[INFO] Console - processing [1K6X.pdb] (100/100)
+[INFO] Struct - groups in chain A: 307
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1EYI.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1EYI.pdb]
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - 345 groups in chain A
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - loading protein [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\datasets\speed5ds\1K6X.pdb]
+[INFO] PdbUtils - loading file [datasets/speed5ds/1K6X.pdb]
+[INFO] Struct - 345 groups in chain A
+[INFO] Struct - 307 groups in chain A
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Struct - groups in chain A: 161
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - 161 groups in chain A
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - 168 groups in chain B
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - 324 groups in chain A
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - loading ligands
+[INFO] Protein - structure atoms: 2805
+[INFO] Protein - protein   atoms: 2518
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 331
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Struct - 331 groups in chain A
+[INFO] Protein - loading ligands
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Struct - groups in chain A: 307
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] Ligands - loading 0 ligands
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 331
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Struct - 307 groups in chain A
+[INFO] Struct - groups in chain A: 331
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Struct - 331 groups in chain A
+[INFO] Struct - groups in chain A: 307
+[INFO] Struct - groups in chain A: 307
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Struct - 307 groups in chain A
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Protein - structure atoms: 2718
+[INFO] Struct - groups in chain A: 331
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - 331 groups in chain A
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 345
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - groups in chain B: 168
+[INFO] Struct - groups in chain A: 161
+[INFO] Struct - 161 groups in chain A
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] Struct - groups in chain B: 168
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 345
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Struct - 345 groups in chain A
+[INFO] Protein - structure atoms: 2688
+[INFO] Protein - protein   atoms: 2461
+[INFO] Protein - loading ligands
+[INFO] Struct - 168 groups in chain B
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] Struct - groups in chain A: 324
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] Ligands - loading 0 ligands
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - groups in chain A: 331
+[INFO] Struct - 324 groups in chain A
+[INFO] Struct - groups in chain A: 331
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Struct - 331 groups in chain A
+[INFO] Protein - structure atoms: 2718
+[INFO] SLinkClusterer - clustering [2] elements
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Protein - protein   atoms: 2485
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 )]
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Protein - structure atoms: 2983
+[INFO] Protein - loading ligands
+[INFO] Struct - groups in chain A: 324
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] SLinkClusterer - clusters together: 2 / 2
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligands - loading 2 ligands
+[INFO] Protein - loading ligands
+[INFO] Protein - protein   atoms: 2556
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - structure atoms: 2805
+[INFO] Struct - groups in chain A: 324
+[INFO] Struct - 324 groups in chain A
+[INFO] Ligand - ligand FE atoms:1
+[INFO] Protein - structure atoms: 2718
+[INFO] Protein - protein   atoms: 2485
+[INFO] Protein - loading ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Ligand - ligand HBI atoms:17
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] Ligands - ignoring ligand FE with only 1 atoms (min 5)
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [HBI]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Ligands - loading 7 ligands
+[INFO] Struct - groups in chain A: 161
+[INFO] Console - 1DMW.pdb: exporting chain A to trainData/fasta/speed5/1DMW_A.fasta
+[INFO] Ligand - ligand CL atoms:1
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - loading 3 ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Protein - loading ligands
+[INFO] Protein - protein   atoms: 2517
+[INFO] Struct - groups in chain B: 168
+[INFO] Protein - loading ligands
+[INFO] Ligand - ligand MG atoms:1
+[INFO] SLinkClusterer - clustering [3] elements
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Struct - groups in chain A: 161
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 )]
+[INFO] SLinkClusterer - clusters together: 3 / 3
+[INFO] Struct - 161 groups in chain A
+[INFO] Ligands - loading 3 ligands
+[INFO] Protein - protein   atoms: 2518
+[INFO] Struct - groups in chain B: 168
+[INFO] Protein - loading ligands
+[INFO] Ligand - ligand F6P atoms:16
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand REX atoms:26
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Struct - 168 groups in chain B
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligand - ligand MG atoms:1
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [REX]
+[INFO] Protein - structure atoms: 3213
+[INFO] Ligand - ligand MG atoms:1
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - ignoring ligand MG with only 1 atoms (min 5)
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Protein - protein   atoms: 2517
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Protein - loading ligands
+[INFO] Ligands - loading 2 ligands
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - loading 1 ligands
+[INFO] Console - 1IKG.pdb: exporting chain A to trainData/fasta/speed5/1IKG_A.fasta
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligand - ligand PO4 atoms:5
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Ligands - Loaded 1 relevant ligands: [F6P]
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Protein - structure atoms: 2805
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Protein - protein   atoms: 2518
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Protein - loading ligands
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Console - 1EYI.pdb: exporting chain A to trainData/fasta/speed5/1EYI_A.fasta
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - loading 1 ligands
+[INFO] Ligand - ligand FMN atoms:31
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligands - Loaded 1 relevant ligands: [FMN]
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Console - 1I0R.pdb: exporting chain A to trainData/fasta/speed5/1I0R_A.fasta
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Struct - groups in chain A: 324
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Struct - groups in chain A: 324
+[INFO] Console - 1I0R.pdb: exporting chain B to trainData/fasta/speed5/1I0R_B.fasta
+[INFO] Struct - 324 groups in chain A
+[INFO] Protein - structure atoms: 3213
+[INFO] Protein - protein   atoms: 2517
+[INFO] Protein - loading ligands
+[INFO] SLinkClusterer - clustering [7] elements
+[INFO] SLinkClusterer - clusters: [id:0( 1 ), id:1( 1 ), id:2( 1 ), id:3( 1 ), id:4( 1 ), id:5( 1 ), id:6( 1 )]
+[INFO] SLinkClusterer - clusters together: 7 / 7
+[INFO] Ligands - loading 7 ligands
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand CL atoms:1
+[INFO] Ligand - ligand NAD atoms:44
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - ignoring ligand CL with only 1 atoms (min 5)
+[INFO] Ligands - loading 0 ligands
+[INFO] Ligands - Loaded 1 relevant ligands: [NAD]
+[INFO] Console - 1K6X.pdb: exporting chain A to trainData/fasta/speed5/1K6X_A.fasta
+[INFO] Console - results saved to directory [C:\Users\proko\Documents\1rocnikac\PBSPrediction\trainData\trainData\fasta\speed5]
+[INFO] Console - 
+[INFO] Console - ----------------------------------------------------------------------------------------------
+[INFO] Console -  finished successfully in 0 hours 0 minutes 2.762 seconds
+[INFO] Console - ----------------------------------------------------------------------------------------------
