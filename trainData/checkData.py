@@ -36,7 +36,7 @@ def checkLengthInCsv(datasetName, fasta,pathCsv,errors):
            fastaSegLen =getFastaSegLength(line[0], fasta +"/"+ datasetName,errors)
            csvLen=len(line[1].replace(' ',''))  #return -1 if file does not exist
            if not (fastaSegLen==csvLen):
-               writeErrors("ERROR line: {0} name: {1} in: {2}".format(i+2,line[0],pathCsv),errors)
+               writeErrors("ERROR line: {0} name: {1} in: {2}".format(i,line[0],pathCsv),errors)
                if(fastaSegLen==-1):
                    writeErrors("File does not exist ".format(),errors)
                else:
@@ -70,6 +70,8 @@ def main():   #arg[1]...bindings_labeled, arg[2]...fasta
     if (len(args)==1):
         args.append("../trainData/bindings_labeled")
         args.append("../trainData/fasta")
+        args.append("../trainData/residues")
+        args.append("../datasets")
     errors = open(errorfile, "w") 
     checkLength(args[1],args[2],errors)
     errors.close()
